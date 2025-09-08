@@ -6,6 +6,6 @@ authors:
     given-names: "Paul"
     orcid: "https://orcid.org/0009-0006-2407-4612"
 version: "1.0"
-doi: "10.5281/zenodo.TBD"   # replace once DOI minted
+doi: "10.5281/zenodo.17081529"   
 date-released: 2025-09-03
 url: "https://github.com/PJSheals/PSOS-Methodology"
