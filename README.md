@@ -1,8 +1,10 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17081529.svg)](https://doi.org/10.5281/zenodo.17081529)
+
 ---
 title: "PSOS™ Methodology"
 description: "Prompt-Space Occupancy Score (PSOS™) — the governance-grade KPI for AI visibility across large language models"
 wikidata: "Q135451157" 
-zenodo: "10.5281/zenodo.TBD" 
+zenodo: "10.5281/zenodo.17081529" 
 orcid: "0009-0006-2407-4612"
 tags:
   - PSOS
@@ -70,7 +72,7 @@ Future versions will expand with sector-specific benchmarks, additional sub-indi
 **The PSOS™ Methodology v1.0**  
 Paul Sheals (2025)  
 GitHub: [https://github.com/PJSheals/PSOS-Methodology](https://github.com/PJSheals/PSOS-Methodology)  
-DOI: *(pending Zenodo record)*  
+DOI: [10.5281/zenodo.17081529](https://doi.org/10.5281/zenodo.17081529)
 
 A DOI badge will be added here once archived with Zenodo.  
 
