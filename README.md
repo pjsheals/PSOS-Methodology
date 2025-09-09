@@ -92,6 +92,26 @@ A DOI badge will be added here once archived with Zenodo.
 
 ---
 
+## 📚 Citations
+
+This repository is part of the **AIVO Standard™ Ecosystem**.  
+To cite the **PSOS™ Methodology v1.0**, please use the BibTeX file provided here:  
+
+- [Download references.bib](./references.bib)
+
+### Example (BibTeX)
+
+```bibtex
+@misc{sheals2025psos_methodology,
+  author       = {Paul Sheals},
+  title        = {PSOS™ Methodology v1.0},
+  year         = {2025},
+  howpublished = {\url{https://github.com/PJSheals/PSOS-Methodology}},
+  note         = {Part of the AIVO Standard\texttrademark{} Ecosystem. Accessed September 2025}
+}
+
+---
+
 ## 🛡️ License
 
 This project is released under the MIT License.  
